@@ -1,2 +1,2 @@
-# Vite + React | Login Solifugo
+# Vite + React | Store Solifugo
 ![image](/images/1.png)
